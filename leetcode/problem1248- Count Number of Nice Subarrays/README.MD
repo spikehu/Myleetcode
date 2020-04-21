@@ -21,5 +21,8 @@ leetcode--1248. 统计「优美子数组」
 
 输入：nums = [2,2,2,1,2,2,1,2,2,2], k = 2
 输出：16
+
 链接：https://leetcode-cn.com/problems/count-number-of-nice-subarrays
+
+
 题解思路参考官方和Ikaruga
